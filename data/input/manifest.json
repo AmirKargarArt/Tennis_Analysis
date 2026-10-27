@@ -1,0 +1,87 @@
+[
+  {
+    "path": "docs/data_quality_report.md",
+    "bytes": 799,
+    "sha256": "b6efcba78884c8fed70433b01e29035e8607e75e7e29b674449ef77cad7aac9b"
+  },
+  {
+    "path": "gold/gold_match_fact_v3.parquet",
+    "bytes": 2034330,
+    "sha256": "68e3b77a65272c0365f37a16daccde257386b734d68215792908c899b6559ee9"
+  },
+  {
+    "path": "silver/clean_match_away_score.parquet",
+    "bytes": 272060,
+    "sha256": "f1dba5b983bcdf802e7076fbcfd5e66c068fc226c28a349a80aa0ad9b734cde4"
+  },
+  {
+    "path": "silver/clean_match_away_team.parquet",
+    "bytes": 563807,
+    "sha256": "248a62b63ef46e86ac7da9fb457c35f130fe47d4f10581161e8633472402c4c6"
+  },
+  {
+    "path": "silver/clean_match_event.parquet",
+    "bytes": 712402,
+    "sha256": "970f4381b8a03e7c3c41913e503920b104172014d621e46d3f43663335a7b553"
+  },
+  {
+    "path": "silver/clean_match_home_score.parquet",
+    "bytes": 272057,
+    "sha256": "a05f15b3da2b885dd8be5aa24e8b1448da88cf1df080c3c46501012371f7b477"
+  },
+  {
+    "path": "silver/clean_match_home_team.parquet",
+    "bytes": 584965,
+    "sha256": "dfe62fa5e91371cd3b23bcec8ea9291a6d331993a5cdb287217bddae5142460c"
+  },
+  {
+    "path": "silver/clean_match_round.parquet",
+    "bytes": 131792,
+    "sha256": "20e11de875fc52314307632adbd56f2aafaf0a10182a0731f607cc308364e7e4"
+  },
+  {
+    "path": "silver/clean_match_season.parquet",
+    "bytes": 254243,
+    "sha256": "e82e8be5f436642c52e43f01af045bc99ffb8d05508754e5c78674905a693944"
+  },
+  {
+    "path": "silver/clean_match_time.parquet",
+    "bytes": 375162,
+    "sha256": "875c8d90134dca543989b690094683146e4b802056a5c94131dfc880ef4b96c4"
+  },
+  {
+    "path": "silver/clean_match_tournament.parquet",
+    "bytes": 325752,
+    "sha256": "12c9f0b9bbbb84eb4e2e013a37e83a8cba0445b44a0ea44958a6de7ce170d700"
+  },
+  {
+    "path": "silver/clean_match_venue.parquet",
+    "bytes": 283204,
+    "sha256": "747e594e5e3dab6be703a749d657fa46571b5ba7915f9a8705f2a2eeec94d76e"
+  },
+  {
+    "path": "silver/clean_odds.parquet",
+    "bytes": 299879,
+    "sha256": "a4a519316833a6245f1fae8441fe1e8e6dbf7db25375b4f98861eafe0ad57dc4"
+  },
+  {
+    "path": "silver/clean_point_by_point.parquet",
+    "bytes": 4197705,
+    "sha256": "f98af38385112657436e041a68785539975e01f88d3480a2e40d1d9e0ec501a5"
+  },
+  {
+    "path": "silver/clean_statistics.parquet",
+    "bytes": 4327423,
+    "sha256": "35bd29dfa4fe8d99833c9ae9bcac7d10f7414832c91dde78e42dfc0e8f31d8b1"
+  },
+  {
+    "path": "silver/clean_tennis_power.parquet",
+    "bytes": 701826,
+    "sha256": "6db2275a02e7f3c5553d2289185cf4342b248a859eeabb9d099981fdf78abf92"
+  },
+  {
+    "path": "silver/clean_votes.parquet",
+    "bytes": 280254,
+    "sha256": "a5d5067f28afc5de000359cc0265fab0ea4bcdd0e24f04bf75dfb1892fa5b9bd"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "input_files_byte_identical": 18,
+  "result_tables_byte_identical": 29,
+  "calculation_cells_unchanged": 23,
+  "png_charts": 23,
+  "svg_charts": 23,
+  "independent_chart_rerun": "passed"
+}
